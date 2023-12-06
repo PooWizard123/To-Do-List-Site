@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+    padding:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    min-width: 500px;
+
+}
+#input-el {
+    width:80%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid green;
+    padding-bottom: 10px;
+
+}
+
+div {
+    width: 100%;
+    border: 1px solid green;
+    padding: 20px;
+    margin: 10px;
+    box-sizing: border-box;
+  }
+
+#date {
+    width:15%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid green;
+}
+
+
+
+#input-btn {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+} 
+
+
+ul div button {
+    position: relative;
+
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+
+
+
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px 20px;
+    text-align: left;
+    
+}
+
+li {
+    padding:10px
+    
+    
+
+}
+
+h1 {
+    text-align: center;
+}
